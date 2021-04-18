@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niranjan-Kumar-Gupta
 - 👀 I’m interested in coding and learning new technolgy
 - 🌱 I’m currently learning web development
-- 
+- 🏫 currently,I'm doing my graduation from National Institute of technology Patna(NITP)
 - 
 
 <!---
