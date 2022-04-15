@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niranjan Kumar Gupta</h1>
 <h3 align="center">presently a Sophomore at National Institute of Technology Patna</h3>
 
-- 🌱 I’m currently learning **full stack Web Development and Android development in react-native**
+- 🌱 I’m a **Web Developer and Android developer in react-native**
 
 - 📫 How to reach me **guptaniranjan8896069078@gmail.com**
 
